@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/app/Cart.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/app/Http/Controllers/ProductController.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/app/Http/routes.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/app/Http/Controllers/UserController.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/app/Order.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/resources/views/shop/shopping-cart.blade.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/resources/views/user/profile.blade.php</file>
+            <file>file:/E:/xmapp/htdocs/fresh_laravel5.2/resources/views/user/signin.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
